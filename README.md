@@ -83,12 +83,9 @@ Here is one example .gitignore file:
 	# ignore all .pdf files in the doc/ directory and any of its subdirectories
 	doc/**/*.pdf
 
-#### IMPORTANT
-Learning to use `.gitignore` is **really** important because you are not allowed to upload any of those files (**.pth, .pyc, .png, .jpg, /\_\_pycache\_\_**) to any repo. *Please pay attention and don't do it.* :disappointed_relieved: (Fun fact: you can add beautiful emoticons to your commits or `README.md` files. Check out this [page](https://gist.github.com/rxaviers/7360908) to find the codes for each one.)
-
 ## Clones and Forks
 
-1. Go into the lab repository (https://github.com/IBIO4490/Linux), and fork it (button at the top right), what happened?
+1. Go into the lab repository (https://github.com/BCEM-UniAndes/git-guide), and fork it (button at the top right), what happened?
 2. In your machine run `git clone <github url>`, to clone your copy of the lab repository.
 3. Run `git remote`, what is the output?
 4. Can you see the commit history?
